@@ -7,3 +7,5 @@ This is a portfolio for demonstrating data science skills and processes, using p
 <img align="left" width="250" height="150" src="images/wine.image.jpg"> **[Wine quality classfication into 3 class types](https://github.com/zekarias4242/projects)**
 
 This project involves preparing a wine dataset, training a classification model, evaluating its performance, and then providing an interactive way for users to input wine features to get predictions on wine class. It showcases common steps in a machine learning pipeline, from data preprocessing to user interaction with the trained model.
+
+#
