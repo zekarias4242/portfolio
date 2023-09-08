@@ -13,3 +13,8 @@ This project involves preparing a wine dataset, training a classification model,
 <img align="left" width="200" height="150" src="image/forecast.image.jpg"> **[Subscriber Content Minutes Watched Forecasting using Prophet](https://github.com/zekarias4242/Fb_Prophet_main.git)**
 
 This project demonstrates the use of the Facebook Prophet time series forecasting library to predict the number of minutes watched by a subscriber for a show. The goal is to provide accurate forecasts based on historical data.
+
+##
+<img align="left" width="200" height="150" src="image/k_means.image.jpg"> **[Customers Analysis Based on Shows Using Clustering(K-means)](https://github.com/zekarias4242/K_means_main.git)**
+
+This project contains Python code for a data analysis and clustering project. The project involves the analysis of customer data and the application of the K-Means clustering algorithm to categorize customers based on their behavior and viewing patterns.
