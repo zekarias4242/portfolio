@@ -18,3 +18,8 @@ This project demonstrates the use of the Facebook Prophet time series forecastin
 <img align="left" width="200" height="150" src="image/k_means.image.jpg"> **[Customers Analysis Based on Shows Using Clustering(K-means)](https://github.com/zekarias4242/K_means_main.git)**
 
 This project contains Python code for a data analysis and clustering project. The project involves the analysis of customer data and the application of the K-Means clustering algorithm to categorize customers based on their behavior and viewing patterns.
+
+##
+<img align="left" width="200" height="150" src="image/k_means.image.jpg"> **[Real Estate Dataset Analysis](https://github.com/zekarias4242/real_estate.git)**
+
+This project contains code and data for Data Exploration of a real estate dataset. The dataset includes information about house prices, house age, distance to the nearest MRT station, number of convenience stores, latitude, and longitude.
