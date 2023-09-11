@@ -24,3 +24,8 @@ This project contains Python code for a data analysis and clustering project. Th
 
 This project involves preparing a wine dataset, training a classification model, evaluating its performance, and then providing an interactive way for users to input wine features to get predictions on wine class. It showcases common steps in a machine learning pipeline, from data preprocessing to user interaction with the trained model.
 
+##
+<img align="left" width="200" height="150" src="image/wine.image.jpg"> **[Data Viz Apple Stock Trend using Tableau](https://public.tableau.com/views/ApplesStockTrend/ApplesStockHistory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+
+This project involves preparing a wine dataset, training a classification model, evaluating its performance, and then providing an interactive way for users to input wine features to get predictions on wine class. It showcases common steps in a machine learning pipeline, from data preprocessing to user interaction with the trained model.
+
