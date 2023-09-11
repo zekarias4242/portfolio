@@ -5,7 +5,7 @@ This is a portfolio for demonstrating data science skills and processes, using p
 
 ## Projects
 
-<img align="left" width="200" height="150" src="image/realestate.image.jpg"> **[Real Estate Dataset Exploration](https://github.com/zekarias4242/real_estate.git){:target="_blank" rel="noopener noreferrer"}**
+<img align="left" width="200" height="150" src="image/realestate.image.jpg"> **<a href="https://github.com/zekarias4242/real_estate.git" target="_blank" rel="noopener noreferrer">Real Estate Dataset Exploration</a>**
 
 This project contains code and data for Data Exploration of a real estate dataset. The dataset includes information about house prices, house age, distance to the nearest MRT station, number of convenience stores, latitude, and longitude.
 
