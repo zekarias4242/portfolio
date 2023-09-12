@@ -1,7 +1,6 @@
-# Data Science Portfolio - Zekarias S.
+# Data Science Portfolio - Zekarias
 This is a portfolio for demonstrating data science skills and processes, using publicly avalaible datasets and free tools.
 
-**Email** : [zekifromgetu4242@gmail.com](zekifromgetu4242@gmail.com)
 
 ## Projects
 
