@@ -1,5 +1,5 @@
 # Data Science Portfolio - Zekarias
-This is a portfolio for demonstrating data science skills and processes, using publicly avalaible datasets and free tools.
+This is a project portfolio for demonstrating data science skills and processes, using publicly avalaible datasets and free tools.
 
 
 ## Projects
